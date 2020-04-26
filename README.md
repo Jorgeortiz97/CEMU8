@@ -1,8 +1,6 @@
 # CEMU8
 CEMU8 (Chip8Emulator) is an emulator built in Java using Swing.
-
-## Compiling and running
-
+You must have JRE (Java Runtime Environment) installed in your computer to run it.
 
 ## References
 I found very helpful information in these sites:
